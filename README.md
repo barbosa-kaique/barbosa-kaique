@@ -28,7 +28,6 @@ public class Main{
 }
 ```
 
-<br>
 
 # Skills
 
@@ -44,11 +43,9 @@ public class Main{
 <img src = https://cdn-icons-png.flaticon.com/128/732/732190.png height = 60>
 </p>
 
-<br>
 
 # Let's be friends! :)
 
-<br>
 <p align = "center">
 <a href = www.linkedin.com/in/kaiquebr>
 <img src = https://a11ybadges.com/badge?logo=linkedin height = 30> 
