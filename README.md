@@ -28,26 +28,26 @@ public class Main{
 }
 ```
 
+<br>
 
 # Skills
 
 <p align = "center">
-<img src = https://cdn-icons-png.flaticon.com/128/226/226777.png height = 80>
-<img src = https://cdn-icons-png.flaticon.com/128/3098/3098090.png height = 60>
-<img src = https://cdn-icons-png.flaticon.com/128/15465/15465695.png height = 60>
-<img src = https://cdn-icons-png.flaticon.com/128/15466/15466163.png height = 60>
-<img src = https://cdn-icons-png.flaticon.com/128/5968/5968313.png height = 60>
-</p>
-<p align =  "center">
-<img src = https://cdn-icons-png.flaticon.com/128/1051/1051277.png height = 60>
-<img src = https://cdn-icons-png.flaticon.com/128/732/732190.png height = 60>
+<img src = https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white>
+<img src = https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54>
+<img src = https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+<img src = https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white>
+<img src = https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white>
+<img src = https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white>
+<img src = https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white>
 </p>
 
+<br>
 
 # Let's be friends! :)
 
 <p align = "center">
-<a href = www.linkedin.com/in/kaiquebr>
+<a href = https://www.linkedin.com/in/kaiquebr>
 <img src = https://a11ybadges.com/badge?logo=linkedin height = 30> 
 </a>
 <a>
