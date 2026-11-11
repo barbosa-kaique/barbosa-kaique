@@ -5,11 +5,13 @@
 ## Tools 🛠️
 
 <p align = "center">
-<img src="./badges/intellij.svg" alt="IntelliJ IDEA">
-<img src="./badges/vscode.svg" alt="VS Code">
-<img src="./badges/linux.svg" alt="Linux">
-<img src="./badges/postman.svg" alt="Postman">
-<img src="./badges/claude.svg" alt="Claude">
+<img src="./badges/intellij.svg">
+<img src="./badges/vscode.svg">
+<img src="./badges/linux.svg">
+<img src="./badges/postman.svg">
+<img src="./badges/claude.svg">
+<img src="./badges/mysql.svg">
+<img src="./badges/docker.svg">
 </p>
 
 <br>
