@@ -1,14 +1,6 @@
-<table>
-  <tr>
-    <td>
-      <img src="./assets/typing.svg" alt="Código em Java sobre Kaique Barbosa">
-    </td>
-    <td>
-      <img src="./assets/figurinha.webp" width="200" alt="Figurinha">
-    </td>
-  </tr>
-</table>
-<br>
+<img align="right" width="200" src="./assets/figurinha.webp">
+<img src="./assets/typing.svg">
+<br clear="right">
 
 ## Tools 🛠️
 
