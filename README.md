@@ -4,7 +4,7 @@
 
 ## Tools 🛠️
 
-<p>
+<p align = "center">
 <img src="./badges/intellij.svg" alt="IntelliJ IDEA">
 <img src="./badges/vscode.svg" alt="VS Code">
 <img src="./badges/linux.svg" alt="Linux">
